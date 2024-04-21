@@ -4,8 +4,7 @@ A repo to accompany my blog post about testing new passkey features in RHEL 9.4.
 
 ## about
 
-not for prod use. set of ansible playbooks to deploy an idm server and client.
-
+set of ansible playbooks to deploy an idm server and client for testing purposes.  the hardware key should already have a pin set; if you're using a yubikey, use the [yubikey manager](https://www.yubico.com/support/download/yubikey-manager/)
 
 ## requirements
 
